@@ -1,0 +1,177 @@
+.clearfix::after {
+    content: '';
+    clear: both;
+    display: table;
+}
+
+header {
+    padding: 20px;
+    width: 1000px;
+    margin: auto;
+}
+
+.header__search {
+    margin: 14px 8px 0px 23px;
+}
+
+.header__search input {
+        width: 250px;
+        padding: 6px 80px 5px 8px ;
+}
+
+.header__search button {
+    border-radius: 25px;
+    padding: 7px 8px 7px 9px;
+}
+
+.header__infolist {
+    margin-top: 11px;
+}
+
+.header__infoheader {
+    margin-bottom: 12px;
+}
+
+.bar {
+    padding-left: 21px;
+    padding-right: 21px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav {
+    padding:  15px 10px 12px 10px;
+    
+}
+
+.navlist {
+    padding:  15px 10px 12px 11px;
+}
+
+.notification-bar {
+    padding:  13px 10px 13px 11px;
+}
+
+.footer li {
+    display: inline;
+}
+
+.invites a {
+    margin-left: 9px;
+}
+
+.friend-request {
+    margin-left: 56px;
+}
+
+.friend-request a {
+    margin-left: 8px;
+}
+
+.container {
+    padding: 30px 20px 0px 20px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.search-container {
+    margin-right: 30px;
+    width: 20%;
+    line-height: 1.571;
+}
+
+.entry-container {
+    margin-right: 30px;
+    width: 54%;
+    line-height: 1.2;
+}
+
+.heading {
+    width: 65%;
+}
+
+.question-icon {
+    margin-left: 14px;
+}
+
+.recent-searchesheading {
+    padding: 13px 9px 10px 11px;
+}
+
+.scroll-bar{
+    height: 500px;
+    overflow: auto;
+}
+.content {
+    padding-bottom: 20px;
+}
+
+.content-list {
+    padding: 13px 0 10px 11px;
+}
+
+.content-names {
+    width: 80%;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.entry-heading {
+    padding: 15px 0 13px 16px;
+}
+
+.arrow {
+    margin-right: 15px;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+.sidebar-container {
+    width: 20%;
+}
+
+.entry-info {
+    width: 80%;
+    margin-left: 10px;
+}
+
+.horizontal-line {
+    margin-top: 15px;
+}
+
+.entry-content-list {
+    margin-top: 15px;
+}
+
+
+.first-element {
+    margin-top: 30px;
+}
+
+.footer-content {
+    padding: 19px 20px 17px 21px;
+    font-family: 'Istok Web Bold';
+    font-size: 9px;
+}
+
+.footer {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer-content ul {
+    display: inline-block;
+}
+
+
